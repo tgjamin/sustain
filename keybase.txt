@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/tgjamin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://benreichert.com
+  * I am tgjamin (https://keybase.io/tgjamin) on keybase.
+  * I have a public key ASB8NsnqlzicvTURyUTU2nTfoTMnC6vZsGNaqpzQ2eZsxwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01207c36c9ea97389cbd3511c944d4da74dfa133270babd9b0635aaa9cd0d9e66cc70a",
+            "host": "keybase.io",
+            "kid": "01207c36c9ea97389cbd3511c944d4da74dfa133270babd9b0635aaa9cd0d9e66cc70a",
+            "uid": "862a178a232fc85b56ce19dfa5f4ff19",
+            "username": "tgjamin"
+        },
+        "service": {
+            "hostname": "benreichert.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1470947579,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1470947553,
+        "hash": "4d88792bdaa9b31aa6ef4caf695ab574d4dfbcaed7b6f272a3fdc0deb801e24eada2b3144279c022afc7f7a4ba107c924a3d9da13ce5de1d7c3f0cbe57ec4fe8",
+        "seqno": 572055
+    },
+    "prev": "643f611582a5533b044cf30e9e1dfb0d42750f7455e46d99d3ef56447372ac64",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfDbJ6pc4nL01EclE1Np036EzJwur2bBjWqqc0NnmbMcKp3BheWxvYWTFAvZ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwN2MzNmM5ZWE5NzM4OWNiZDM1MTFjOTQ0ZDRkYTc0ZGZhMTMzMjcwYmFiZDliMDYzNWFhYTljZDBkOWU2NmNjNzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2MzNmM5ZWE5NzM4OWNiZDM1MTFjOTQ0ZDRkYTc0ZGZhMTMzMjcwYmFiZDliMDYzNWFhYTljZDBkOWU2NmNjNzBhIiwidWlkIjoiODYyYTE3OGEyMzJmYzg1YjU2Y2UxOWRmYTVmNGZmMTkiLCJ1c2VybmFtZSI6InRnamFtaW4ifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImJlbnJlaWNoZXJ0LmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzA5NDc1NzksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDk0NzU1MywiaGFzaCI6IjRkODg3OTJiZGFhOWIzMWFhNmVmNGNhZjY5NWFiNTc0ZDRkZmJjYWVkN2I2ZjI3MmEzZmRjMGRlYjgwMWUyNGVhZGEyYjMxNDQyNzljMDIyYWZjN2Y3YTRiYTEwN2M5MjRhM2Q5ZGExM2NlNWRlMWQ3YzNmMGNiZTU3ZWM0ZmU4Iiwic2Vxbm8iOjU3MjA1NX0sInByZXYiOiI2NDNmNjExNTgyYTU1MzNiMDQ0Y2YzMGU5ZTFkZmIwZDQyNzUwZjc0NTVlNDZkOTlkM2VmNTY0NDczNzJhYzY0Iiwic2Vxbm8iOjE4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQN+dQTsbhBqhrklYNDO3gp81SvvSpd+LDUq7tE5fGZiF/3dMYILeJjUXqg1XnJJfeAX8l+IBLjEz7vZWHGL3RwSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBt8BS5bIZgQOniIhUN2wRB4eXTk3rq6lx5KzB/SiSbR6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tgjamin
+
+==================================================================
