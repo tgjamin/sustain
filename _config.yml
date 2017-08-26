@@ -10,7 +10,7 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://tgjamin.github.io/
+url: https://benreichert.com
 baseurl: /
 title: Ben Reichert
 author: Ben Reichert
@@ -20,5 +20,3 @@ email: ben<at>benreichert.com
 github: tgjamin # username
 twitter: tgjamin
 linkedin: benreichert
-#disqus: username
-#google_analytics: UA-69391421-1
